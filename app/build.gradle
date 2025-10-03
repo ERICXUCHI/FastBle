@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.clj.blesample"
     compileSdkVersion rootProject.ext.android.compileSdkVersion
     buildToolsVersion rootProject.ext.android.buildToolsVersion
 
